@@ -2,6 +2,6 @@
 
 ## I'm a Developer, and Student.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning everything. 
+- 🌱 I’m currently learning everything.🤣
 - 💞️ I’m looking to collaborate on Open Source Projects. 
 
