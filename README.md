@@ -1,4 +1,4 @@
-# Hi there, I'm Kesara! - aka [BiGD0GKD] Glad you here!<img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" width="30px">
+# Hi there, I'm Kesara! - aka [BiGD0GKD] Glad you here! <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" width="30px">
 
 I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems from [University of Colombo School of Computing](https://cmb.ac.lk/). I am a tech enthusiast & love to make new things. I am always open to collabarating on projects. Find about more about me & feel free to connect with me here.
 
