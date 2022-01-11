@@ -11,6 +11,8 @@ I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems 
 
 [![Kesara's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kesaralive&theme=xcode)](https://github.com/kesaralive)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesaralive&theme=dark)](https://git.io/streak-stats)
+
 ### 👨🏻‍💻 Coding Profiles
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/BiGDoGKD)
 
