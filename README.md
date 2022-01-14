@@ -10,7 +10,6 @@ I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems 
 
 
 [![Kesara's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kesaralive&theme=xcode)](https://github.com/kesaralive)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesaralive&theme=dark)](https://github.com/kesaralive)
 
 ### 👨🏻‍💻 Coding Profiles
@@ -54,3 +53,5 @@ I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+## 🐍 Contribution Graph
+![github contribution grid snake animation](https://raw.githubusercontent.com/kesaralive/kesaralive/output/github-contribution-grid-snake.svg)
