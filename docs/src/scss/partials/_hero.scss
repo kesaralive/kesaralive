@@ -1,0 +1,58 @@
+.site-main {
+
+    min-height: 100vh;
+
+    .site-banner {
+        background: none;
+
+        .welcome-text {}
+
+        .wave {
+            height: 40px;
+        }
+
+        .site-title h3 {
+            font-weight: 500;
+        }
+
+        .site-title h1 {
+            font-size: 5rem;
+        }
+
+        .site-title h4 {
+            font-size: 1.5rem;
+        }
+
+        .banner-image>img {
+            padding: 7rem 0;
+            // width: 90rem;
+        }
+
+        .social-buttons {
+            .fab {
+                font-size: 3rem;
+                margin: auto 1rem auto auto;
+            }
+
+            .linkedin {
+                color: $linkedin;
+            }
+
+            .twitter {
+                color: $twitter;
+            }
+
+            .facebook {
+                color: $facebook;
+            }
+
+            .stackoverflow {
+                color: $stackoverflow;
+            }
+
+            .github {
+                color: $github;
+            }
+        }
+    }
+}
