@@ -2,11 +2,11 @@
 
 I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems from [University of Colombo School of Computing](https://cmb.ac.lk/). I am a tech enthusiast & love to make new things. I am always open to collabarating on projects. Find about more about me & feel free to connect with me here.
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kesaralive@gmail.com)](mailto:kesaralive@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kdkarannagoda/)](https://www.linkedin.com/in/kdkarannagoda/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kesaraonline)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kesara.karannagoda/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://www.instagram.com/kesara_karannagoda/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@kesara.live)](mailto:info@kesara.live)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesaralive/)](https://www.linkedin.com/in/kesaralive/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kesaralive)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kesaralive/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kesara_karannagoda/)](https://www.instagram.com/kesara_karannagoda/)
 
 
 [![Kesara's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kesaralive&theme=xcode)](https://github.com/kesaralive)
