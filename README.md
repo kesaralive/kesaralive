@@ -7,7 +7,7 @@ I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kesaralive)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kesaralive/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kesara_karannagoda/)](https://www.instagram.com/kesara_karannagoda/)
-![Github](https://img.shields.io/website?down_message=offline&label=kesaralive&up_message=online&url=https%3A%2F%2Fkesara.live)
+![Github](https://img.shields.io/website?down_message=down&label=kesara.live&up_message=up&url=https%3A%2F%2Fkesara.live)
 
 [![Kesara's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kesaralive&theme=xcode)](https://github.com/kesaralive)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesaralive&theme=dark)](https://github.com/kesaralive)
