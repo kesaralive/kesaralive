@@ -1,4 +1,4 @@
-# Hi there, I'm Kesara! Glad you here!  <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" width="30px">
+# Hi there, I'm Kesara! Glad you here!  <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" height="30px" width="30px">
 
 I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems from the University of Colombo School of Computing. I am a tech enthusiast & love to make new things. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here.
 
