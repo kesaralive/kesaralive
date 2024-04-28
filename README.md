@@ -1,6 +1,6 @@
 # Hi there, I'm Kesara! Glad you here!  <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" height="30px" width="30px">
 
-I'm Kesara Karannagoda, Currently pursuing my BSc degree in Information Systems from the University of Colombo School of Computing. I am a tech enthusiast & love to make new things. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here.
+I'm Kesara Karannagoda, currently pursuing my BSc degree in Information Systems at the University of Colombo School of Computing. I am a tech enthusiast and love to create new things. I am always open to collaborating on projects. Feel free to connect with me here to find out more about me.
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@kesara.live)](mailto:hello@kesaralive.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesaralive/)](https://www.linkedin.com/in/kesaralive/)
