@@ -26,11 +26,7 @@ I'm Kesara Karannagoda, currently pursuing my BSc degree in Information Systems 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-<p align="start">
-<a href="https://github.com/kesaralive?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesaralive&layout=compact&langs_count=8&theme=graywhite&border_color=ddd&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=25" alt="Github Stats" />
-    </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesaralive&layout=compact&langs_count=8&theme=graywhite&border_color=ddd&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true&border_radius=25" alt="Github Stats")
 
 ### Libraries & Framework
 
@@ -38,7 +34,7 @@ I'm Kesara Karannagoda, currently pursuing my BSc degree in Information Systems 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesaralive&layout=compact)
+
 
 
 ### Tools:
