@@ -38,6 +38,9 @@ I'm Kesara Karannagoda, currently pursuing my BSc degree in Information Systems 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesaralive&layout=compact)
+
+
 ### Tools:
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
