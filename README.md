@@ -1,6 +1,23 @@
 # Hi there, I'm Kesara! Glad you here!  <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" height="30px" width="30px">
 
-I'm Kesara Karannagoda, currently pursuing my BSc degree in Information Systems at the University of Colombo School of Computing. I am a tech enthusiast and love to create new things. I am always open to collaborating on projects. Feel free to connect with me here to find out more about me.
+## 🏗️ Building the Future of Distributed Systems
+
+**Technical Leader & Systems Architect** specializing in cloud-native architectures and AI-powered edge computing.
+
+🚀 **What I Do:**
+- Design and scale complex distributed systems for next-generation applications
+- Lead cross-functional engineering teams from concept to production
+- Architect microservices and edge computing solutions that handle real-world scale
+- Build robust CI/CD pipelines and infrastructure automation
+
+🔧 **Current Focus:**
+- Distributed systems that solve complex technical challenges
+- Bridging cutting-edge AI with practical business solutions
+- Cloud-native architectures and edge computing innovation
+
+💡 **Always interested in:** Connecting with engineers and technical leaders pushing the boundaries of what's possible.
+
+Let's build systems that matter. 🌟
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@kesara.live)](mailto:hello@kesaralive.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kesaralive/)](https://www.linkedin.com/in/kesaralive/)
